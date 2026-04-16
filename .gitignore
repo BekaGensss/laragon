@@ -1,0 +1,6 @@
+www/
+bin/
+data/
+tmp/
+logs/
+*.log
